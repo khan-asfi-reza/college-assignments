@@ -1,4 +1,7 @@
-
+/*
+Write a C program that reads the radius r of a circle and the side a of a square from user 
+and then checks if that square can be placed inside that circle or not. 
+*/
 #include <stdio.h>
 #include <math.h>
 

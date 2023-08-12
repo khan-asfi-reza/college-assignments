@@ -1,4 +1,15 @@
-// Find area and volume of sphere
+/*
+3.	Write a C program that reads two complex numbers from user. Then compute and print the sum, difference, and product of these numbers.
+Sample input/output – 1 (bold ones are inputs):
+Enter Real part of first complex number: -6
+Enter Imaginary part of first complex number: 5
+Enter Real part of second complex number: 2
+Enter Imaginary part of second complex number: -7
+Sum = -4 - 2i
+Difference = -8 + 12i
+Product = 23 + 52i
+*/
+
 #include <stdio.h>
 #include <math.h>
 
