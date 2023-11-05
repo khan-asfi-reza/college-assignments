@@ -1,14 +1,14 @@
 # College Assignments
 
-A repo to store all my NSU (North South University) Course assignment in a organized way.
+A repo to store all my NSU (North South University) Course assignments in an organized way.
 
 
-### Repo Structre
+### Repo Structure
 
 ```
    [CourseName]
         |____ Work1
-             |______ tasl1.c
+             |______ task1.c
              |______ task2.c
         |____ Work2
         |____ ....
